@@ -1,5 +1,8 @@
 body {
     font-family: Arial, sans-serif;
+    background-image: url('fiek.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   
   .container {
@@ -10,14 +13,21 @@ body {
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
+
+  .container:hover{
+    background-color: rgba(0, 0, 0, 0.4)
+  }
   
   h1 {
     text-align: center;
     color: #333;
+    font-weight: bold;
   }
 
   h4 {
     text-align: center;
+    color: black;
+    font-weight: 900;
   }
   
   textarea {
