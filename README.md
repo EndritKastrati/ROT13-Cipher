@@ -29,6 +29,7 @@ Perdoret kryesisht per lojera/puzzles te ndryshme.
   
 ## Shembuj të ekzekutimit
 
+![Screenshot (65)](https://github.com/EndritKastrati/ROT13-Cipher/assets/122494705/e18ab785-1062-4033-a378-c6c817a910ac)
 
 
 
